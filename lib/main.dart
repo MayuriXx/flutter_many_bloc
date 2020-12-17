@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_many_bloc/bloc/ui/main_scaffold.dart';
+import 'package:flutter_many_bloc/ui/main_scaffold.dart';
 
 void main() {
   runApp(MyApp());
